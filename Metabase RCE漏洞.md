@@ -2,15 +2,16 @@
 ## CVE-2023-38646
 
 ## 影响版本
-Metabase open source 0.46 < 0.46.6.1
-Metabase open source 0.45 < v0.45.4.1
-Metabase open source 0.44 < 0.44.7.1
-Metabase open source 0.43 < 0.43.7.2
-Metabase Enterprise 1.45 < 1.45.4.1
-Metabase Enterprise 1.46 < 1.46.6.1
-Metabase Enterprise 1.44 < 1.44.7.1
-Metabase Enterprise 1.43 < 1.43.7.2
+Metabase open source 0.46 < 0.46.6.1  
+Metabase open source 0.45 < v0.45.4.1  
+Metabase open source 0.44 < 0.44.7.1  
+Metabase open source 0.43 < 0.43.7.2  
+Metabase Enterprise 1.45 < 1.45.4.1  
+Metabase Enterprise 1.46 < 1.46.6.1  
+Metabase Enterprise 1.44 < 1.44.7.1  
+Metabase Enterprise 1.43 < 1.43.7.2  
 
+## python脚本
 ```
 import requests
 import argparse
