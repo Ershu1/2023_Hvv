@@ -44,3 +44,4 @@ attk = requests.post(url, headers=headers, json=payload)
 print(Cyan + "Done!! Check Burp Colabrator!!" + STOP)
 ```
 
+https://github.com/0xrobiul/CVE-2023-38646
